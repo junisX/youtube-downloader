@@ -12,8 +12,11 @@ Die Schaltflächen verweisen auf die Dateien im Release **v1.0.0** dieses Repos:
 
 | Datei | Größe | SHA-256 |
 |---|---|---|
-| `YouTube Downloader-Setup-1.0.0.exe` | 64,8 MB | `5E4238F7CA2223F1681FF20557902714EF02BCB4BBCD280033C1A1A9758E89F9` |
-| `YouTube Downloader Portable.exe` | 86 MB | `711DDDAA09D5E0C4F4C7434742AA35E36297BEDF2B7C46C9FBFC2E04E460B94C` |
+| `YouTube.Downloader-Setup-1.0.0.exe` | 64,8 MB | `5E4238F7CA2223F1681FF20557902714EF02BCB4BBCD280033C1A1A9758E89F9` |
+| `YouTube.Downloader.Portable.exe` | 86 MB | `711DDDAA09D5E0C4F4C7434742AA35E36297BEDF2B7C46C9FBFC2E04E460B94C` |
+
+GitHub ersetzt Leerzeichen in Release-Asset-Namen durch Punkte – die Links in
+`index.html` verwenden daher genau diese Schreibweise.
 
 ## Aufbau
 
